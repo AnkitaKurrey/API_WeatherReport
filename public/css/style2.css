@@ -1,0 +1,28 @@
+body{
+    margin-top: 5vh;
+    display: flex;
+    justify-content: center;
+    background-color: #00BFFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    color: rgb(41, 41, 155);
+    align-items: center;   
+}
+
+.box{
+    position: relative;
+    border: 12px outset #87CEFA ;
+    border-radius: 7px;
+    padding: 60px;
+}
+span{
+    color: rgb(24, 24, 120);
+    font-weight: bolder;
+    
+}
+.box5{
+    display: inline-block;
+    border: rgb(37, 98, 146) solid 7px;
+    border-radius: 23px;
+    
+}

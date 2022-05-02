@@ -1,0 +1,49 @@
+body{
+    background-color:#FDEBF7 ;
+   text-align: center;
+    /* padding: 45px; */
+    margin-top: 30vh;
+}
+.section{
+    margin-top: 40vh;
+    text-align: center;
+    border: #FFADF0  23px outset ;
+    padding: 73px;
+    margin-left: 20vh;
+    margin-right: 20vh;
+}
+
+.CityName{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: #FC28FB;
+    
+}
+
+.Input{
+    width: 300px;
+    height: 45px;
+    padding-left: 14px;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.Button{
+  
+    margin-left: 12px;
+    background-color:#FBCAFF ;
+    border-radius: 5px;
+    color: #FC28FB;
+    border: #FC28FB solid 2px;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.Button:hover {
+    background-color: #FC28FB; /* Green */
+    color: #FDEBF7;
+    border: #FFADF0 solid 2px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
